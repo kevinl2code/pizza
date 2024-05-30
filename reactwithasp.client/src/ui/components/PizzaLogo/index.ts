@@ -1,0 +1,1 @@
+export { PizzaLogo } from './PizzaLogo';

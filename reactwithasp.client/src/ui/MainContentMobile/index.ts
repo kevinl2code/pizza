@@ -1,0 +1,1 @@
+export { MainContentMobile } from './MainContentMobile';
